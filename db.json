@@ -1,4 +1,19 @@
 {
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "createdAt": "2023-09-25T00:52:04.214Z"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "userId": "1",
+      "productId": "1",
+      "createdAt": "2023-09-25T00:52:04.214Z"
+    }
+  ],
   "stores": [
     {
       "createdAt": "2023-09-25T00:52:04.214Z",
