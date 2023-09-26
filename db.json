@@ -1,405 +1,196 @@
 {
   "stores": [
     {
-     "createdAt": "2023-09-25T00:52:04.214Z",
-     "name": "Apple",
-     "id": "1"
+      "createdAt": "2023-09-25T00:52:04.214Z",
+      "name": "Apple",
+      "id": "1"
     },
     {
-     "createdAt": "2023-09-24T22:07:40.108Z",
-     "name": "Samsung",
-     "id": "2"
-    },
-    {
-     "createdAt": "2023-09-24T08:05:11.260Z",
-     "name": "Xiaomi",
-     "id": "3"
+      "createdAt": "2023-09-24T22:07:40.108Z",
+      "name": "Samsung",
+      "id": "2"
     }
-   ],
+  ],
   "products": [
     {
-     "createdAt": "2023-09-24T22:05:24.631Z",
-     "name": "Intelligent Frozen Hat",
-     "id": "1",
-     "storeId": "1"
+      "createdAt": "2023-09-24T22:05:24.631Z",
+      "name": "Intelligent Frozen Hat",
+      "id": "1",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-25T02:41:55.780Z",
-     "name": "Fantastic Metal Ball",
-     "id": "2",
-     "storeId": "2"
+      "createdAt": "2023-09-25T02:41:55.780Z",
+      "name": "Fantastic Metal Ball",
+      "id": "2",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T16:55:09.301Z",
-     "name": "Practical Soft Table",
-     "id": "3",
-     "storeId": "3"
+      "createdAt": "2023-09-24T16:28:14.011Z",
+      "name": "Oriental Frozen Sausages",
+      "id": "4",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T16:28:14.011Z",
-     "name": "Oriental Frozen Sausages",
-     "id": "4",
-     "storeId": "1"
+      "createdAt": "2023-09-24T20:05:50.848Z",
+      "name": "Intelligent Frozen Chair",
+      "id": "5",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T20:05:50.848Z",
-     "name": "Intelligent Frozen Chair",
-     "id": "5",
-     "storeId": "2"
+      "createdAt": "2023-09-24T17:18:27.726Z",
+      "name": "Recycled Metal Soap",
+      "id": "7",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-25T05:32:18.033Z",
-     "name": "Tasty Plastic Pizza",
-     "id": "6",
-     "storeId": "3"
+      "createdAt": "2023-09-24T08:29:52.211Z",
+      "name": "Sleek Plastic Chips",
+      "id": "8",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T17:18:27.726Z",
-     "name": "Recycled Metal Soap",
-     "id": "7",
-     "storeId": "1"
+      "createdAt": "2023-09-24T13:17:54.528Z",
+      "name": "Sleek Metal Chicken",
+      "id": "10",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T08:29:52.211Z",
-     "name": "Sleek Plastic Chips",
-     "id": "8",
-     "storeId": "2"
+      "createdAt": "2023-09-25T06:51:48.967Z",
+      "name": "Fantastic Cotton Cheese",
+      "id": "11",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T16:19:59.704Z",
-     "name": "Luxurious Steel Shirt",
-     "id": "9",
-     "storeId": "3"
+      "createdAt": "2023-09-24T17:37:02.248Z",
+      "name": "Elegant Bronze Shirt",
+      "id": "13",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T13:17:54.528Z",
-     "name": "Sleek Metal Chicken",
-     "id": "10",
-     "storeId": "1"
+      "createdAt": "2023-09-24T10:11:17.497Z",
+      "name": "Electronic Soft Chicken",
+      "id": "14",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-25T06:51:48.967Z",
-     "name": "Fantastic Cotton Cheese",
-     "id": "11",
-     "storeId": "2"
+      "createdAt": "2023-09-25T02:25:47.798Z",
+      "name": "Awesome Granite Fish",
+      "id": "16",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T15:33:13.009Z",
-     "name": "Gorgeous Fresh Tuna",
-     "id": "12",
-     "storeId": "3"
+      "createdAt": "2023-09-25T06:21:08.576Z",
+      "name": "Practical Frozen Salad",
+      "id": "17",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T17:37:02.248Z",
-     "name": "Elegant Bronze Shirt",
-     "id": "13",
-     "storeId": "1"
+      "createdAt": "2023-09-24T09:52:18.222Z",
+      "name": "Handcrafted Plastic Table",
+      "id": "19",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T10:11:17.497Z",
-     "name": "Electronic Soft Chicken",
-     "id": "14",
-     "storeId": "2"
+      "createdAt": "2023-09-24T17:57:35.814Z",
+      "name": "Bespoke Granite Car",
+      "id": "20",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T17:59:04.653Z",
-     "name": "Bespoke Rubber Salad",
-     "id": "15",
-     "storeId": "3"
+      "createdAt": "2023-09-24T15:50:00.524Z",
+      "name": "Tasty Cotton Chips",
+      "id": "22",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-25T02:25:47.798Z",
-     "name": "Awesome Granite Fish",
-     "id": "16",
-     "storeId": "1"
+      "createdAt": "2023-09-24T09:59:44.692Z",
+      "name": "Oriental Granite Keyboard",
+      "id": "23",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-25T06:21:08.576Z",
-     "name": "Practical Frozen Salad",
-     "id": "17",
-     "storeId": "2"
+      "createdAt": "2023-09-25T02:54:58.459Z",
+      "name": "Unbranded Fresh Cheese",
+      "id": "25",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T12:10:35.170Z",
-     "name": "Luxurious Wooden Hat",
-     "id": "18",
-     "storeId": "3"
+      "createdAt": "2023-09-24T23:38:25.321Z",
+      "name": "Elegant Steel Chair",
+      "id": "26",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T09:52:18.222Z",
-     "name": "Handcrafted Plastic Table",
-     "id": "19",
-     "storeId": "1"
+      "createdAt": "2023-09-25T01:09:40.384Z",
+      "name": "Luxurious Granite Bacon",
+      "id": "28",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T17:57:35.814Z",
-     "name": "Bespoke Granite Car",
-     "id": "20",
-     "storeId": "2"
+      "createdAt": "2023-09-25T00:29:00.846Z",
+      "name": "Handmade Frozen Computer",
+      "id": "29",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T20:32:07.370Z",
-     "name": "Electronic Metal Fish",
-     "id": "21",
-     "storeId": "3"
+      "createdAt": "2023-09-24T14:31:16.353Z",
+      "name": "Rustic Fresh Mouse",
+      "id": "31",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T15:50:00.524Z",
-     "name": "Tasty Cotton Chips",
-     "id": "22",
-     "storeId": "1"
+      "createdAt": "2023-09-24T23:43:23.159Z",
+      "name": "Unbranded Frozen Gloves",
+      "id": "32",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T09:59:44.692Z",
-     "name": "Oriental Granite Keyboard",
-     "id": "23",
-     "storeId": "2"
+      "createdAt": "2023-09-24T07:33:18.024Z",
+      "name": "Elegant Bronze Fish",
+      "id": "34",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T08:39:04.206Z",
-     "name": "Awesome Granite Cheese",
-     "id": "24",
-     "storeId": "3"
+      "createdAt": "2023-09-25T01:19:53.564Z",
+      "name": "Awesome Frozen Hat",
+      "id": "35",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-25T02:54:58.459Z",
-     "name": "Unbranded Fresh Cheese",
-     "id": "25",
-     "storeId": "1"
+      "createdAt": "2023-09-25T06:02:46.620Z",
+      "name": "Practical Steel Shoes",
+      "id": "37",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T23:38:25.321Z",
-     "name": "Elegant Steel Chair",
-     "id": "26",
-     "storeId": "2"
+      "createdAt": "2023-09-24T08:48:06.933Z",
+      "name": "Incredible Frozen Shirt",
+      "id": "38",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-24T16:33:09.338Z",
-     "name": "Awesome Granite Ball",
-     "id": "27",
-     "storeId": "3"
+      "createdAt": "2023-09-24T21:10:23.147Z",
+      "name": "Oriental Soft Computer",
+      "id": "40",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-25T01:09:40.384Z",
-     "name": "Luxurious Granite Bacon",
-     "id": "28",
-     "storeId": "1"
+      "createdAt": "2023-09-24T07:14:47.362Z",
+      "name": "Sleek Plastic Bacon",
+      "id": "41",
+      "storeId": "2"
     },
     {
-     "createdAt": "2023-09-25T00:29:00.846Z",
-     "name": "Handmade Frozen Computer",
-     "id": "29",
-     "storeId": "2"
+      "createdAt": "2023-09-24T13:09:26.812Z",
+      "name": "Generic Bronze Mouse",
+      "id": "43",
+      "storeId": "1"
     },
     {
-     "createdAt": "2023-09-24T22:28:46.154Z",
-     "name": "Tasty Wooden Shoes",
-     "id": "30",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T14:31:16.353Z",
-     "name": "Rustic Fresh Mouse",
-     "id": "31",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T23:43:23.159Z",
-     "name": "Unbranded Frozen Gloves",
-     "id": "32",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T10:30:54.361Z",
-     "name": "Incredible Cotton Bacon",
-     "id": "33",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T07:33:18.024Z",
-     "name": "Elegant Bronze Fish",
-     "id": "34",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-25T01:19:53.564Z",
-     "name": "Awesome Frozen Hat",
-     "id": "35",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T11:50:24.744Z",
-     "name": "Rustic Fresh Keyboard",
-     "id": "36",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-25T06:02:46.620Z",
-     "name": "Practical Steel Shoes",
-     "id": "37",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T08:48:06.933Z",
-     "name": "Incredible Frozen Shirt",
-     "id": "38",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-25T07:04:46.115Z",
-     "name": "Modern Granite Chair",
-     "id": "39",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T21:10:23.147Z",
-     "name": "Oriental Soft Computer",
-     "id": "40",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T07:14:47.362Z",
-     "name": "Sleek Plastic Bacon",
-     "id": "41",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T17:58:46.464Z",
-     "name": "Oriental Granite Keyboard",
-     "id": "42",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T13:09:26.812Z",
-     "name": "Generic Bronze Mouse",
-     "id": "43",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-25T03:27:12.788Z",
-     "name": "Oriental Fresh Towels",
-     "id": "44",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T10:20:17.257Z",
-     "name": "Sleek Cotton Bacon",
-     "id": "45",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-25T00:50:48.072Z",
-     "name": "Tasty Steel Tuna",
-     "id": "46",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T11:59:00.410Z",
-     "name": "Oriental Plastic Chair",
-     "id": "47",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T13:01:53.253Z",
-     "name": "Awesome Fresh Gloves",
-     "id": "48",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T14:32:19.607Z",
-     "name": "Small Metal Table",
-     "id": "49",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T20:10:23.813Z",
-     "name": "Elegant Wooden Table",
-     "id": "50",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T09:52:13.882Z",
-     "name": "Bespoke Bronze Bacon",
-     "id": "51",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T12:52:59.675Z",
-     "name": "Electronic Rubber Chips",
-     "id": "52",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-25T06:20:44.135Z",
-     "name": "Handcrafted Cotton Pants",
-     "id": "53",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-25T02:19:08.534Z",
-     "name": "Awesome Frozen Ball",
-     "id": "54",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T08:26:23.739Z",
-     "name": "Gorgeous Wooden Car",
-     "id": "55",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T13:54:39.059Z",
-     "name": "Recycled Wooden Mouse",
-     "id": "56",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T21:54:37.997Z",
-     "name": "Fantastic Fresh Chair",
-     "id": "57",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T22:45:08.782Z",
-     "name": "Small Soft Gloves",
-     "id": "58",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-25T02:18:42.055Z",
-     "name": "Generic Granite Towels",
-     "id": "59",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T20:17:58.882Z",
-     "name": "Modern Rubber Chair",
-     "id": "60",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-25T01:25:14.445Z",
-     "name": "Luxurious Rubber Chips",
-     "id": "61",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-25T02:13:55.571Z",
-     "name": "Sleek Frozen Pizza",
-     "id": "62",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-25T03:21:39.744Z",
-     "name": "Generic Frozen Shoes",
-     "id": "63",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T11:12:39.753Z",
-     "name": "Refined Rubber Shoes",
-     "id": "64",
-     "storeId": "1"
+      "createdAt": "2023-09-25T03:27:12.788Z",
+      "name": "Oriental Fresh Towels",
+      "id": "44",
+      "storeId": "2"
     }
-   ]
+  ]
 }
