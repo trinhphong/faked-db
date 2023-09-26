@@ -400,42 +400,6 @@
      "name": "Refined Rubber Shoes",
      "id": "64",
      "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T23:32:48.606Z",
-     "name": "Gorgeous Metal Fish",
-     "id": "65",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T18:20:36.394Z",
-     "name": "Licensed Cotton Cheese",
-     "id": "66",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-25T00:36:41.341Z",
-     "name": "Tasty Frozen Pants",
-     "id": "67",
-     "storeId": "1"
-    },
-    {
-     "createdAt": "2023-09-24T08:23:20.354Z",
-     "name": "Fantastic Steel Table",
-     "id": "68",
-     "storeId": "2"
-    },
-    {
-     "createdAt": "2023-09-24T08:36:30.801Z",
-     "name": "Gorgeous Rubber Salad",
-     "id": "69",
-     "storeId": "3"
-    },
-    {
-     "createdAt": "2023-09-24T23:51:37.017Z",
-     "name": "Intelligent Cotton Mouse",
-     "id": "70",
-     "storeId": "1"
     }
    ]
 }
